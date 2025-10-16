@@ -1,0 +1,16 @@
+﻿node_modules/
+dist/
+build/
+*.log
+.env
+.env.*
+.DS_Store
+.cursor/
+.vscode/
+.idea/
+coverage/
+.next/
+.cache/
+.turbo/
+.pnpm-store/
+**/*.local
